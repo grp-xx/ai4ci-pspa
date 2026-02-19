@@ -176,3 +176,6 @@ vcpkg_installed/
 *.gcda
 *.gcno
 coverage/
+
+# Specific folders
+dry-run/
